@@ -5,6 +5,10 @@ spqr_planning_and_reasoning/spqr_topological_plan/CMakeFiles/spqr_build_topologi
  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/include/graph.cpp
  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/include/graph.h
 spqr_planning_and_reasoning/spqr_topological_plan/CMakeFiles/spqr_build_topological_graph_node.dir/src/spqr_build_topological_graph_node.cpp.o
+ /home/francesco/planning_ws/devel/include/location_service/GetLocation.h
+ /home/francesco/planning_ws/devel/include/location_service/GetLocationRequest.h
+ /home/francesco/planning_ws/devel/include/location_service/GetLocationResponse.h
+ /home/francesco/planning_ws/devel/include/location_service/Location.h
  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/include/graph.h
  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/src/spqr_build_topological_graph_node.cpp
  /opt/ros/kinetic/include/geometry_msgs/Point.h
@@ -198,6 +202,7 @@ spqr_planning_and_reasoning/spqr_topological_plan/CMakeFiles/spqr_build_topologi
  /opt/ros/kinetic/include/ros/wall_timer.h
  /opt/ros/kinetic/include/ros/wall_timer_options.h
  /opt/ros/kinetic/include/rosconsole/macros_generated.h
+ /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
  /opt/ros/kinetic/include/std_msgs/Header.h
  /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h

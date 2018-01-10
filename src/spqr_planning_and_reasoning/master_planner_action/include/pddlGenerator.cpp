@@ -9,7 +9,7 @@ void PddlProblemGenerator::createProblemPddl(std::vector <std::string> objLocati
   for(int i = 0; i<3;++i)
       slots.push_back(true);
   
-  myfile.open ("//home/luca/catkin_ws/src/Robocup@Work/spqr_planning_and_reasoning/master_planner_action/config/pddl/problem.pddl",std::fstream::out);
+  myfile.open ("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/master_planner_action/config/pddl/problem.pddl",std::fstream::out);
   myfile << "(define (problem spqr-planning)" << std::endl;
   myfile << "   (:domain spqr-task-planning)" << std::endl;
   
