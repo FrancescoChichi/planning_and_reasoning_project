@@ -173,7 +173,7 @@ void Graph::addArc(int curr,int succ){
 void Graph::exportGraph(){
 	FILE *fd;
 	//write mode file
-	fd=fopen("/home/luca/catkin_ws/src/Robocup@Work/spqr_planning_and_reasoning/replan_topological_graph_action/config/graph/graph.txt", "w");
+	fd=fopen("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/replan_topological_graph_action/config/graph/graph.txt", "w");
 	if( fd==NULL ) {
 		perror("Error I/O");
 		exit(1);
@@ -197,7 +197,7 @@ void Graph::exportGraph(){
 pGraph Graph::importGraph(){
 	pGraph importedGraph;
 	//open file graph
-	std::ifstream Graph_file("/home/luca/catkin_ws/src/Robocup@Work/spqr_planning_and_reasoning/replan_topological_graph_action/config/graph/graph.txt");
+	std::ifstream Graph_file("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/replan_topological_graph_action/config/graph/graph.txt");
 	if (Graph_file){
 		std::string line;
 		while (getline (Graph_file,line)){

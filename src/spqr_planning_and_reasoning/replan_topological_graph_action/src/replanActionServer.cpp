@@ -60,7 +60,7 @@ int getLocations(ros::NodeHandle &n, Graph *graph)
 		std::vector<int> list_id;
 	        std::string name = srvGet.response.locations[i].name;
 		//open file graph
-		std::ifstream Configuration_file("/home/luca/catkin_ws/src/Robocup@Work/spqr_planning_and_reasoning/spqr_topological_plan/config/configTopologic.txt");
+		std::ifstream Configuration_file("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/configTopologic.txt");
 		if (Configuration_file)
 		{
 			std::string line;
@@ -283,8 +283,8 @@ void executeCBinit(const replan_topological_graph_action ::replanGoalConstPtr &g
     // feedback_.goal = goal->goal;
     feedback_.goal[0] = 0.7;
     feedback_.goal[1] =-1.2;
-    feedback_.goal[2] = -1.7;
-    feedback_.goal[3] =2.2;
+    feedback_.goal[2] = 0.7;
+    feedback_.goal[3] =-0.8;
     //import the actual graph
     Graph g;
     pGraph impGraph=g.importGraph();
