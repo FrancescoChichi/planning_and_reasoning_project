@@ -1,12 +1,19 @@
 # PR_ProjectDelivery
 
-Repository for the project of Pattern Recognition - Authors D. Evangelista and A. Ciorra
+Repository for the project of Planning and Reasoning - Authors L. Monorchio and F. Chichi
 
-## Prerequisites - SegNet
+### Prerequisites - downward:
+Download and install it following the commands below:
+```
+sudo apt-get install ros-kinetic-downward 
+```
 
-Install and build SegNet and its tutorial stuff:
+### Prerequisites - map_server:
+Download and install it following the commands below:
+```
+sudo apt-get install ros-kinetic-map-server 
+```
 
-* Follow the instruction in the [SegNet tutorial page](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html) 
 
 ### The ISIC Dataset
 
