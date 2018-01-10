@@ -298,7 +298,7 @@ int getLocations(ros::NodeHandle &n, Graph *graph) {
 		std::vector<int> list_id;
 	        std::string name = srvGet.response.locations[i].name;
 		//open file graph
-		std::ifstream Configuration_file("/home/francesco/pinguin_ws/src/spqr_task_planner/config/configTopologic.txt");
+		std::ifstream Configuration_file("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/config/configTopologic.txt");
 		if (Configuration_file){
 			std::string line;
 			bool notFound = true;			
@@ -414,7 +414,7 @@ int main(int argc, char** argv) {
   userdata.map = map_img;
   userdata.mapResolution = map_resolution;
   userdata.mapOrigin = map_origin;
-  userdata.logo = cv::imread("/home/francesco/pinguin_ws/src/spqr_task_planner/logo.jpg", CV_LOAD_IMAGE_UNCHANGED);
+  userdata.logo = cv::imread("/home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/logo.jpg", CV_LOAD_IMAGE_UNCHANGED);
 
 //  cv::cvtColor(userdata.logo,userdata.logo, cv::COLOR_GRAY2BGR );
 

@@ -4,6 +4,10 @@
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/include/graph.cpp.o: /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/include/graph.cpp
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/include/graph.cpp.o: /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/include/graph.h
 
+spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/devel/include/location_service/GetLocation.h
+spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/devel/include/location_service/GetLocationRequest.h
+spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/devel/include/location_service/GetLocationResponse.h
+spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/devel/include/location_service/Location.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/include/graph.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_task_planner/src/spqr_path_viewer_node.cpp
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
@@ -197,6 +201,7 @@ spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.d
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/ros/wall_timer.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/ros/wall_timer_options.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/rosconsole/macros_generated.h
+spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/std_msgs/Header.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
 spqr_planning_and_reasoning/spqr_task_planner/CMakeFiles/spqr_path_viewer_node.dir/src/spqr_path_viewer_node.cpp.o: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h
