@@ -33,6 +33,8 @@ rosrun location_service loc_service.py
 Run the map_server with a map:
 ```
 rosrun map_server map_server <your_map_path>
+//e.g.:
+rosrun map_server map_sver planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml 
 ```
 Run the topological_plan:
 ```
