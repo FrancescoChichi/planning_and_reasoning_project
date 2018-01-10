@@ -1,0 +1,12 @@
+{
+    "locations": [
+    ], 
+    "robot": {
+        "position": "", 
+        "slots": {
+            "0": "free", 
+            "1": "free", 
+            "2": "free"
+        }
+    }
+}

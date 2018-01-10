@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/devel
+
+Name: task_compiler
+Description: Description of task_compiler
+Version: 0.1.10
+Cflags: 
+Libs: -L/home/francesco/planning_ws/devel/lib 
+Requires: 

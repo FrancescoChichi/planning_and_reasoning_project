@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/install
+
+Name: pddl_planner_viewer
+Description: Description of pddl_planner_viewer
+Version: 0.1.10
+Cflags: 
+Libs: -L/home/francesco/planning_ws/install/lib 
+Requires: 

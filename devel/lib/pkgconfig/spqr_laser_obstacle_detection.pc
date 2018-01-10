@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/devel
+
+Name: spqr_laser_obstacle_detection
+Description: Description of spqr_laser_obstacle_detection
+Version: 0.0.0
+Cflags: -I/home/francesco/planning_ws/devel/include -I/home/francesco/planning_ws/src/spqr_laser_obstacle_detection/include
+Libs: -L/home/francesco/planning_ws/devel/lib 
+Requires: 

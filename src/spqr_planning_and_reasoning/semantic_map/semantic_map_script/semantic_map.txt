@@ -1,0 +1,402 @@
+{
+    "locations": [
+        {
+            "coordinate": {
+                "angle": "-3.13489383141", 
+                "x": "1.84383113005", 
+                "y": "-2.02151853566", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WPS", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.10754924893", 
+                "x": "0.467673545605", 
+                "y": "-1.66758757979", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP01", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.13043042895", 
+                "x": "-1.38183614739", 
+                "y": "-1.78994911183", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP02", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-1.53983957332", 
+                "x": "-0.589144429934", 
+                "y": "-1.92188343942", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "SH01", 
+            "objects": [], 
+            "type": "shelf"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.00441082287", 
+                "x": "-0.255164427993", 
+                "y": "-0.938054064478", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS02", 
+            "objects": [
+                {
+                    "coordinate": {
+                        "angle": "0", 
+                        "x": "0", 
+                        "y": "0", 
+                        "z": "0"
+                    }, 
+                    "id": "BEARING1"
+                }
+            ], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "0.0229797445795", 
+                "x": "-1.85672713696", 
+                "y": "-0.826906991893", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS03", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-1.57445335178", 
+                "x": "-1.69804663978", 
+                "y": "-1.96508226301", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS01", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.09880933121", 
+                "x": "-2.63522081034", 
+                "y": "-1.93735528384", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP04", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.55504417183", 
+                "x": "-3.00004262195", 
+                "y": "-2.35075875546", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP03", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.56916638193", 
+                "x": "-2.92014044454", 
+                "y": "-1.5067864653", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS04", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "3.13507941752", 
+                "x": "-4.04538853003", 
+                "y": "-1.53504199169", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP05", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.12121967083", 
+                "x": "-4.31926259703", 
+                "y": "-0.585586343988", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS05", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.57556563413", 
+                "x": "-4.24115636937", 
+                "y": "0.0664906857338", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP06", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "3.10570746683", 
+                "x": "-4.22352731159", 
+                "y": "0.735589914776", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS06", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.56617694591", 
+                "x": "-4.3513792369", 
+                "y": "1.72881193822", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP07", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.53914336464", 
+                "x": "-4.62440745521", 
+                "y": "2.00043082272", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS07", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-2.97566535346", 
+                "x": "-2.49970836721", 
+                "y": "1.42689187869", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "SH027", 
+            "objects": [], 
+            "type": "shelf"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-2.97566535346", 
+                "x": "-2.49970836721", 
+                "y": "1.42689187869", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "SH02", 
+            "objects": [], 
+            "type": "shelf"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.89584587063", 
+                "x": "-2.24120058223", 
+                "y": "1.55156096157", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP11", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "0.0213757215103", 
+                "x": "-0.896019213081", 
+                "y": "1.70340715632", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS08", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "0.0406202301348", 
+                "x": "-0.886387200762", 
+                "y": "0.947598389986", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS09", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-0.0574878318909", 
+                "x": "-0.112688572788", 
+                "y": "2.58903389791", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP12", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.1309810616", 
+                "x": "0.731918927442", 
+                "y": "1.00533760575", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS10", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "0.0220372530613", 
+                "x": "1.79876566541", 
+                "y": "1.79754941362", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP13", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "1.60156735575", 
+                "x": "2.67009684436", 
+                "y": "2.01033844176", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS11", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "0.00263094420582", 
+                "x": "1.4310617363", 
+                "y": "-0.0327078782432", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP14", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-1.5046797304", 
+                "x": "2.67445199377", 
+                "y": "-0.570017649684", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WS12", 
+            "objects": [], 
+            "type": "platform"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.11124773122", 
+                "x": "1.22133183736", 
+                "y": "-0.901379023984", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP15", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.09614714025", 
+                "x": "0.295025449329", 
+                "y": "-0.0141020792628", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP10", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "3.07171293804", 
+                "x": "-1.97254227215", 
+                "y": "-0.0105611800869", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP09", 
+            "objects": [], 
+            "type": "position"
+        }, 
+        {
+            "coordinate": {
+                "angle": "-3.12796943926", 
+                "x": "-3.01622333272", 
+                "y": "-0.0467129355758", 
+                "z": "0"
+            }, 
+            "height": "toDo", 
+            "id": "WP08", 
+            "objects": [], 
+            "type": "position"
+        }
+    ], 
+    "robot": {
+        "position": "", 
+        "slots": {
+            "0": "free", 
+            "1": "free", 
+            "2": "free"
+        }
+    }, 
+    "youbot": {
+        "position": "", 
+        "slots": {
+            "0": "free", 
+            "1": "free", 
+            "2": "free"
+        }
+    }
+}

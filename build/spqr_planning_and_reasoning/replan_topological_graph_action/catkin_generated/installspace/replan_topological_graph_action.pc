@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/install
+
+Name: replan_topological_graph_action
+Description: Description of replan_topological_graph_action
+Version: 0.0.0
+Cflags: -I/home/francesco/planning_ws/install/include
+Libs: -L/home/francesco/planning_ws/install/lib 
+Requires: roscpp rospy std_msgs actionlib_msgs

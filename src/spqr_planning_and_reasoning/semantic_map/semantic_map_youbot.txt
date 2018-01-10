@@ -1,0 +1,688 @@
+{
+    "entities": [
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS03", 
+            "coordinate": {
+                "angle": "0.0229797445795", 
+                "x": "-55.7018141088", 
+                "y": "-24.8072097568", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "object"
+            ], 
+            "atom": "BEARING_BOX", 
+            "coordinate": {
+                "angle": "0.0542052901175", 
+                "x": "7.11799944016", 
+                "y": "0.398654014509", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "object", 
+            "type": "object"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS01", 
+            "coordinate": {
+                "angle": "-1.57445335178", 
+                "x": "-50.9413991935", 
+                "y": "-58.9524678904", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS02", 
+            "coordinate": {
+                "angle": "-3.00441082287", 
+                "x": "-7.65493283978", 
+                "y": "-28.1416219343", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS04", 
+            "coordinate": {
+                "angle": "1.56916638193", 
+                "x": "-87.6042133362", 
+                "y": "-45.2035939591", 
+                "z": "0"
+            }, 
+            "objects": [
+                {
+                    "alternativeLexicalReferences": [
+                        "object"
+                    ], 
+                    "atom": "BEARING_BOX", 
+                    "coordinate": {
+                        "angle": "0", 
+                        "x": "0", 
+                        "y": "0", 
+                        "z": "0"
+                    }, 
+                    "id": "BEARING_BOX", 
+                    "preferredLexicalReference": "object", 
+                    "type": "object"
+                }
+            ], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS55", 
+            "coordinate": {
+                "angle": "1.53189779836", 
+                "x": "-1278.06691977", 
+                "y": "-1375.51769045", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS05", 
+            "coordinate": {
+                "angle": "-3.11965546913", 
+                "x": "-129.920275009", 
+                "y": "-19.3494677021", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS5", 
+            "coordinate": {
+                "angle": "-0.00129729166511", 
+                "x": "-1257.64540422", 
+                "y": "-1007.78883624", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS2", 
+            "coordinate": {
+                "angle": "-1.57735796496", 
+                "x": "-1321.4778143", 
+                "y": "-1070.86067281", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WPS", 
+            "coordinate": {
+                "angle": "-3.13489383141", 
+                "x": "55.3149339016", 
+                "y": "-60.6455560699", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP1", 
+            "coordinate": {
+                "angle": "-0.138422242744", 
+                "x": "77.7880587747", 
+                "y": "-13.7678843336", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS1", 
+            "coordinate": {
+                "angle": "1.45331148759", 
+                "x": "99.2846691083", 
+                "y": "-15.6608030691", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WSH1", 
+            "coordinate": {
+                "angle": "1.45006481664", 
+                "x": "125.954923936", 
+                "y": "-19.9023184019", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS3", 
+            "coordinate": {
+                "angle": "2.99275472692", 
+                "x": "120.35920726", 
+                "y": "-42.5476795763", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP2", 
+            "coordinate": {
+                "angle": "3.02274645248", 
+                "x": "129.282127784", 
+                "y": "-40.4141790434", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP3", 
+            "coordinate": {
+                "angle": "-0.15262582796", 
+                "x": "162.905888779", 
+                "y": "-19.9274557176", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS4", 
+            "coordinate": {
+                "angle": "-1.6761946047", 
+                "x": "156.84651703", 
+                "y": "-37.9779453773", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP4", 
+            "coordinate": {
+                "angle": "-0.144220487473", 
+                "x": "166.766551958", 
+                "y": "-40.7577671651", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP01", 
+            "coordinate": {
+                "angle": "-3.10754924893", 
+                "x": "14.0302063682", 
+                "y": "-50.0276273938", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP02", 
+            "coordinate": {
+                "angle": "-3.13043042895", 
+                "x": "-41.4550844216", 
+                "y": "-53.6984733549", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "shelf"
+            ], 
+            "atom": "SH01", 
+            "coordinate": {
+                "angle": "-1.53983957332", 
+                "x": "-17.674332898", 
+                "y": "-57.6565031825", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "shelf", 
+            "type": "shelf"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP04", 
+            "coordinate": {
+                "angle": "-3.09880933121", 
+                "x": "-79.0566243102", 
+                "y": "-58.1206585151", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP03", 
+            "coordinate": {
+                "angle": "1.55504417183", 
+                "x": "-90.0012786585", 
+                "y": "-70.5227626638", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP05", 
+            "coordinate": {
+                "angle": "3.13507941752", 
+                "x": "-121.361655901", 
+                "y": "-46.0512597507", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP06", 
+            "coordinate": {
+                "angle": "1.57556563413", 
+                "x": "-127.234691081", 
+                "y": "1.99472057201", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP07", 
+            "coordinate": {
+                "angle": "1.56617694591", 
+                "x": "-130.541377107", 
+                "y": "51.8643581465", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "shelf"
+            ], 
+            "atom": "SH027", 
+            "coordinate": {
+                "angle": "-2.97566535346", 
+                "x": "-74.9912510164", 
+                "y": "42.8067563606", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "shelf", 
+            "type": "shelf"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "shelf"
+            ], 
+            "atom": "SH02", 
+            "coordinate": {
+                "angle": "-2.97566535346", 
+                "x": "-74.9912510163", 
+                "y": "42.8067563607", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "shelf", 
+            "type": "shelf"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP11", 
+            "coordinate": {
+                "angle": "1.89584587063", 
+                "x": "-67.2360174668", 
+                "y": "46.5468288472", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS10", 
+            "coordinate": {
+                "angle": "-3.1309810616", 
+                "x": "21.9575678233", 
+                "y": "30.1601281726", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP13", 
+            "coordinate": {
+                "angle": "0.0220372530613", 
+                "x": "53.9629699622", 
+                "y": "53.9264824086", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS11", 
+            "coordinate": {
+                "angle": "1.60156735575", 
+                "x": "80.1029053307", 
+                "y": "60.3101532527", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP14", 
+            "coordinate": {
+                "angle": "0.00263094420582", 
+                "x": "42.9318520889", 
+                "y": "-0.981236347296", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS12", 
+            "coordinate": {
+                "angle": "-1.5046797304", 
+                "x": "80.2335598132", 
+                "y": "-17.1005294905", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP15", 
+            "coordinate": {
+                "angle": "-3.11124773122", 
+                "x": "36.6399551209", 
+                "y": "-27.0413707195", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP09", 
+            "coordinate": {
+                "angle": "3.07171293804", 
+                "x": "-59.1762681644", 
+                "y": "-0.316835402607", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP10", 
+            "coordinate": {
+                "angle": "1.56693680106", 
+                "x": "45.1842964421", 
+                "y": "27.7504139463", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP12", 
+            "coordinate": {
+                "angle": "1.56361283449", 
+                "x": "29.1098441915", 
+                "y": "66.2137061718", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WP08", 
+            "coordinate": {
+                "angle": "0.0569070934134", 
+                "x": "-103.454524936", 
+                "y": "71.0829822085", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS07", 
+            "coordinate": {
+                "angle": "1.72923331395", 
+                "x": "-142.567141582", 
+                "y": "57.0520729788", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "position"
+            ], 
+            "atom": "WPE", 
+            "coordinate": {
+                "angle": "-1.52011737056", 
+                "x": "-119.316677159", 
+                "y": "-73.4561381193", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "position", 
+            "type": "position"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS06", 
+            "coordinate": {
+                "angle": "-3.08724193449", 
+                "x": "-128.422001735", 
+                "y": "23.3677078427", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS08", 
+            "coordinate": {
+                "angle": "0.0566086634856", 
+                "x": "-25.4507323853", 
+                "y": "53.1798487423", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }, 
+        {
+            "alternativeLexicalReferences": [
+                "platform"
+            ], 
+            "atom": "WS09", 
+            "coordinate": {
+                "angle": "0.0720870630944", 
+                "x": "-24.8264222629", 
+                "y": "31.549379524", 
+                "z": "0"
+            }, 
+            "objects": [], 
+            "preferredLexicalReference": "platform", 
+            "type": "platform"
+        }
+    ], 
+    "robot": {
+        "position": "", 
+        "slots": {
+            "0": "free", 
+            "1": "free", 
+            "2": "free"
+        }
+    }
+}

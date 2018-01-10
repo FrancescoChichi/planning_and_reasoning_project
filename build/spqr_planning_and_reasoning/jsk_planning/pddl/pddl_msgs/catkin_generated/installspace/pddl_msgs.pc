@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/install
+
+Name: pddl_msgs
+Description: Description of pddl_msgs
+Version: 0.1.10
+Cflags: -I/home/francesco/planning_ws/install/include
+Libs: -L/home/francesco/planning_ws/install/lib 
+Requires: actionlib actionlib_msgs message_runtime

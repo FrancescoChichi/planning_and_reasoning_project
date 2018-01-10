@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/devel
+
+Name: master_plan_action
+Description: Description of master_plan_action
+Version: 0.0.0
+Cflags: -I/home/francesco/planning_ws/devel/include -I/home/francesco/planning_ws/src/spqr_planning_and_reasoning/master_planner_action/include
+Libs: -L/home/francesco/planning_ws/devel/lib 
+Requires: roscpp rospy std_msgs actionlib_msgs

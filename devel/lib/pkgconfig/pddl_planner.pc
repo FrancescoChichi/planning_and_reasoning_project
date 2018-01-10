@@ -1,0 +1,8 @@
+prefix=/home/francesco/planning_ws/devel
+
+Name: pddl_planner
+Description: Description of pddl_planner
+Version: 0.1.10
+Cflags: 
+Libs: -L/home/francesco/planning_ws/devel/lib 
+Requires: 
