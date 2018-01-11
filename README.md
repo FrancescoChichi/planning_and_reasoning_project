@@ -67,11 +67,10 @@ In oder to use the viewer, execute the following row:
 rosrun map_server map_server <path_to_yaml>
 rosrun location_service loc_service.py 
 rosrun spqr_task_planner spqr_path_viewer_node <plan_path> <optional_path_to_image>
+
 e.g.:
 rosrun map_server map_server /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml 
-
 rosrun location_service loc_service.py 
-
-rosrun spqr_task_planner spqr_path_viewer_node /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real_cleaned.pgm
+rosrun spqr_task_planner spqr_path_viewer_node /home/francesco/planning_ws/src/spqr_planning_and_reasoning/jsk_planning/pddl/pddl_planner/Robocup_task/sample.plan.2  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real_cleaned.pgm
 
 ```
