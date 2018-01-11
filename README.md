@@ -34,7 +34,7 @@ Run the map_server with a map:
 ```
 rosrun map_server map_server <your_map_path>
 //e.g.:
-rosrun map_server map_sver planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml 
+rosrun map_server map_server planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml 
 ```
 Run the topological_plan:
 ```
@@ -55,7 +55,7 @@ Move to downward directory
 ```
 cd <your_ws>/src/spqr_planning_and_reasoning/jsk_planning/pddl/pddl_planner/Robocup_task
 ex:
-/home/francesco/planning_ws/src/spqr_planning_and_reasoning/jsk_planning/pddl/pddl_planner/Robocup_task
+cd /home/francesco/planning_ws/src/spqr_planning_and_reasoning/jsk_planning/pddl/pddl_planner/Robocup_task
 ```
 Run downward
 ```
@@ -65,14 +65,13 @@ rosrun downward plan domain.pddl ./problem.pddl ipc seq-sat-lama-2011 --plan-fil
 In oder to use the viewer, execute the following row:
 ```
 rosrun map_server map_server <path_to_yaml>
-rosrun spqr_task_planner spqr_path_viewer_node <downward_output_path>
 rosrun location_service loc_service.py 
 rosrun spqr_task_planner spqr_path_viewer_node <plan_path> <optional_path_to_image>
 e.g.:
-rosrun map_server map_server /home/francesco/planning_ws/src/spqr_planning_and_rning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml
+rosrun map_server map_server /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml 
 
 rosrun location_service loc_service.py 
 
-/home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real_cleaned.pgm
+rosrun spqr_task_planner spqr_path_viewer_node /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real.yaml  /home/francesco/planning_ws/src/spqr_planning_and_reasoning/spqr_topological_plan/config/maps/map_magdeburg_real_cleaned.pgm
 
 ```
